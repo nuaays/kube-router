@@ -1,4 +1,4 @@
-![logo](./Documentation/logo-left.svg)
+![logo](./Documentation/img/logo-left.png)
 
 [![Build Status](https://travis-ci.org/cloudnativelabs/kube-router.svg?branch=master)](https://travis-ci.org/cloudnativelabs/kube-router)
 [![Gitter chat](http://badges.gitter.im/kube-router/Lobby.svg)](https://gitter.im/kube-router/Lobby)
